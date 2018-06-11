@@ -1,0 +1,7 @@
+#用于在公司业务之间切换的
+10.88.32.125 oracle.aeye.com
+#10.88.32.27 socket.aeye.com
+10.88.32.27 weblogic.aeye
+#10.88.32.27 dubbo.aeye
+127.0.0.1 dubbo.aeye
+10.88.32.27 ws.aeye
